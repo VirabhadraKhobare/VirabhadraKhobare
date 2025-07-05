@@ -7,7 +7,7 @@
 
 - 🎓 I'm a B.Tech CSE student passionate about **AI/ML**, **Full-Stack Development**, and **Creative Projects**
 - 🌱 Currently working on:
-  - 🛡️ **PDF Malware Detection using Machine Learning**
+  - 🛡️ **PDF Q&A System**
   - 📨 **GH-Timeline - GitHub Email Verifier with CRON jobs**
 - 💻 Most of my projects are available at: [VirabhadraKhobare](https://github.com/VirabhadraKhobare/)
 - 🔭 Learning **DSA**, **System Design**, and building **3D Portfolios with Three.js**
