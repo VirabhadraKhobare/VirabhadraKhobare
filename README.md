@@ -1,69 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Virbhadra Khobare</h1>
+<h3 align="center">🚀 B.Tech CSE | Passionate Developer | AI/ML & Web Enthusiast</h3>
 
-###
+---
 
-<p align="left">My name is Virabhadra and I'm a Developer, from India</p>
+## 👨‍💻 About Me
 
-###
+- 🎓 I'm a B.Tech CSE student passionate about **AI/ML**, **Full-Stack Development**, and **Creative Projects**
+- 🌱 Currently working on:
+  - 🛡️ **PDF Malware Detection using Machine Learning**
+  - 📨 **GH-Timeline - GitHub Email Verifier with CRON jobs**
+- 💻 Most of my projects are available at: [VirabhadraKhobare](https://github.com/VirabhadraKhobare/)
+- 🔭 Learning **DSA**, **System Design**, and building **3D Portfolios with Three.js**
+- 📫 Reach me at: **virbhadrakhobare111@gmail.com**
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🔧 Tech Stack
 
-<p align="left">📚 I'm currently learning BTech CSE<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Drawing Sketch</p>
+```yaml
+Languages: Python, Java, JavaScript, PHP, C++
+Frontend: HTML, CSS, React.js, Tailwind CSS, JavaScript
+Backend: Node.js, Express.js, PHP
+Databases: MySQL, MongoDB, Cassandra
+Tools: Git, GitHub, VS Code, Postman, Mailpit
+```
 
-###
+### 🔥 Featured Projects
 
-<h2 align="left">I code with</h2>
+- 🖱️ Hand-Controlled Virtual Mouse
+- 📄 PDF Q&A System using Cassandra
+- 📺 YouTube Summarizer App
+- 🌐 Portfolio Website
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VirabhadraKhobare&show_icons=true&theme=radical" alt="Virbhadra's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirabhadraKhobare&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</p>
 
-<p align="left">Hello World!!</p>
 
-###
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:virbhadrakhobare111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/virabhadrakhobare/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://VirabhadraKhobare.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/VirabhadraKhobare">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
