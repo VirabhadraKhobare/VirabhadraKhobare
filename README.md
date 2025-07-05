@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Virabhadra and I'm a Developer, from Kolhapur</p>
+<p align="left">My name is Virabhadra and I'm a Developer, from India</p>
 
 ###
 
