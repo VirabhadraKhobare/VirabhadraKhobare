@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Virbhadra Khobare</h1>
 <h3 align="center">🚀 B.Tech CSE | Passionate Developer | AI/ML & Web Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VirabhadraKhobare&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
