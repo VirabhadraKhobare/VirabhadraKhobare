@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Virbhadra Khobare</h1>
-<h3 align="center">🚀 B.Tech CSE | Passionate Developer | AI/ML & Web Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE | Passionate Developer | Full Stack Development & AI/ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VirabhadraKhobare&label=PROFILE+VIEWS" alt="Visitor Count" />
@@ -22,7 +22,7 @@
 ## 🔧 Tech Stack
 
 ```yaml
-Languages: Python, Java, JavaScript, PHP, C++
+Languages: Java, Python, JavaScript, PHP, C++
 Frontend: HTML, CSS, React.js, Tailwind CSS, JavaScript
 Backend: Node.js, Express.js, PHP
 Databases: MySQL, MongoDB, Cassandra
