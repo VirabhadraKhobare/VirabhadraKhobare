@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Virbhadra Khobare</h1>
+<h1 align="center">Hi 👋, I'm Virabhadra Khobare</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 MERN Stack Developer
+💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 MERN Stack Developer
 </h3>
 
 <p align="center">
@@ -22,21 +22,24 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 🏫 Sharad Institute of Technology, Yadrav-Ichalkaranji  
-- 💡 Passionate about solving real-world problems using technology  
-- 🌱 Currently learning **Advanced Full Stack Development & AI Integration**
-- 🚀 Building scalable and modern web applications
-- 🧠 Interested in:
-  - MERN Stack Development
+- 🎓 Computer Science & Engineering Student
+- 🏫 Sharad Institute of Technology, Yadrav-Ichalkaranji
+- 🚀 Passionate about Full Stack Development & Artificial Intelligence
+- 💡 Building modern, scalable, and impactful applications
+- 🌱 Currently learning:
+  - Advanced MERN Stack
+  - AI Integration
+  - Backend Architecture
+  - System Design
+- 🧠 Strong interest in:
+  - Full Stack Web Development
   - Artificial Intelligence
   - Machine Learning
-  - Backend Engineering
-  - System Design
-- 🏆 Smart India Hackathon Enthusiast
-- 📈 Focused on improving DSA & Development Skills daily
+  - Cloud & APIs
+  - Open Source Contribution
+- 📈 Improving DSA & Development Skills Daily
 
 ---
 
@@ -69,6 +72,25 @@
 <tr>
 <td width="50%">
 
+## 🌾 VK Smart Agro AI Advisor
+
+### 🔹 Features
+- AI-powered agriculture advisory system
+- Smart crop recommendations
+- Farmer-friendly dashboard
+- Real-time guidance & insights
+- Multi-language support concept
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `AI`
+
+🔗 **Repository:**  
+https://github.com/VirabhadraKhobare/vk-smart-argo-ai-advisor
+
+</td>
+
+<td width="50%">
+
 ## 🏥 Smart Hospital Management System
 
 ### 🔹 Features
@@ -77,31 +99,9 @@
 - Admin Dashboard
 - Authentication System
 - Role-Based Access
-- Emergency Module
 
 ### 🛠️ Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Live Demo:**  
-https://smart-hospital-management.vercel.app/
-
-🔗 **Repository:**  
-https://github.com/VirabhadraKhobare/smart-hospital-management
-
-</td>
-
-<td width="50%">
-
-## 🤖 PDF Malware Detection using ML
-
-### 🔹 Features
-- Detects malicious PDF files
-- ML-based classification
-- Secure file analysis
-- Data preprocessing pipeline
-
-### 🛠️ Tech Stack
-`Python` `Scikit-learn` `Machine Learning`
 
 🔗 **Repository:**  
 https://github.com/VirabhadraKhobare
@@ -115,10 +115,10 @@ https://github.com/VirabhadraKhobare
 ## 📄 AI Document Q&A System
 
 ### 🔹 Features
-- Ask questions from PDFs
-- AI-powered response generation
-- Smart document search
-- Vector database integration
+- Ask AI questions from uploaded PDFs
+- AI-powered document analysis
+- Smart semantic search
+- Fast information retrieval
 
 ### 🛠️ Tech Stack
 `Python` `LangChain` `Cassandra`
@@ -134,9 +134,9 @@ https://github.com/VirabhadraKhobare
 
 ### 🔹 Features
 - Modern UI/UX
-- 3D animations using Three.js
+- 3D Animations with Three.js
 - Responsive Design
-- Smooth transitions
+- Interactive Components
 
 ### 🛠️ Tech Stack
 `React.js` `Three.js` `Tailwind CSS`
@@ -157,9 +157,9 @@ https://github.com/VirabhadraKhobare
 
 ### 🔹 Features
 - Authentication System
-- Admin Dashboard
 - Food Ordering
-- Cart & Payment Integration
+- Cart Management
+- Admin Dashboard
 
 ### 🛠️ Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
@@ -176,8 +176,8 @@ https://github.com/VirabhadraKhobare
 ### 🔹 Features
 - Full-page screenshot capture
 - Secure login system
-- GUI + Web Integration
 - Automated browser handling
+- GUI + Web Integration
 
 ### 🛠️ Tech Stack
 `Python` `Flask` `Selenium`
@@ -195,7 +195,7 @@ https://github.com/VirabhadraKhobare
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VirabhadraKhobare&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VirabhadraKhobare&theme=tokyonight&hide_border=true"/>
 </p>
 
