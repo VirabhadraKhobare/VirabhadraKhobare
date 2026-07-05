@@ -24,8 +24,7 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student
-- 🏫 Sharad Institute of Technology, Yadrav-Ichalkaranji
+- 🎓 BTech - Computer Science and Engineering 
 - 🚀 Passionate about Full Stack Development & Artificial Intelligence
 - 💡 Building modern, scalable, and impactful applications
 - 🌱 Currently learning:
