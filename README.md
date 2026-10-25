@@ -123,7 +123,7 @@ https://github.com/VirabhadraKhobare
 `Python` `LangChain` `Cassandra`
 
 🔗 **Repository:**  
-https://github.com/VirabhadraKhobare
+[Live Link](https://github.com/VirabhadraKhobare/document-qa-system)
 
 </td>
 
