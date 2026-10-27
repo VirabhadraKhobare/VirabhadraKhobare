@@ -170,19 +170,20 @@ https://github.com/VirabhadraKhobare/mern-food-ordering-web-app-vk
 
 <td width="50%">
 
-## 📸 Website Screenshot Taker
+## 🚗 Automobile Service Platform
 
 ### 🔹 Features
-- Full-page screenshot capture
-- Secure login system
-- Automated browser handling
-- GUI + Web Integration
+- Improve screenshot management and export options.
+- Expand browser automation capabilities.
+- Enhance application security and error handling.
+- Improve responsive design and user experience.
+- Add automated testing and deployment workflows.
 
 ### 🛠️ Tech Stack
-`Python` `Flask` `Selenium`
+`React` `Node.js` `MongoDB` `Browser Automation Tools` `Web Technologies`
 
 🔗 **Repository:**  
-https://github.com/VirabhadraKhobare
+https://github.com/VirabhadraKhobare/automobile-service-platform
 
 </td>
 </tr>
