@@ -103,7 +103,7 @@ https://github.com/VirabhadraKhobare/vk-smart-argo-ai-advisor
 `React.js` `Node.js` `Express.js` `MongoDB`
 
 🔗 **Repository:**  
-https://github.com/VirabhadraKhobare
+https://github.com/VirabhadraKhobare/smart-hospital-management
 
 </td>
 </tr>
