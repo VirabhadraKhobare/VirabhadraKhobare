@@ -123,7 +123,7 @@ https://github.com/VirabhadraKhobare/smart-hospital-management
 `Python` `LangChain` `Cassandra`
 
 🔗 **Repository:**  
-[Live Link](https://github.com/VirabhadraKhobare/document-qa-system)
+https://github.com/VirabhadraKhobare/document-qa-system
 
 </td>
 
@@ -164,7 +164,7 @@ https://github.com/VirabhadraKhobare
 `MongoDB` `Express.js` `React.js` `Node.js`
 
 🔗 **Repository:**  
-https://github.com/VirabhadraKhobare
+https://github.com/VirabhadraKhobare/mern-food-ordering-web-app-vk
 
 </td>
 
